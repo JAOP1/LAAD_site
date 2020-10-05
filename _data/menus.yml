@@ -4,13 +4,13 @@
 # run. So please, fill in any custom menu entry here.
 header:
 - title: Acerca
-  url: /#sobre
+  url: sobre
 - title: Eventos
-  url: /#eventos
+  url: eventos
 - title: Miembros
-  url: /#miembros
+  url: miembros
 - title: Contacto
-  url: /#contacts
+  url: contacts
 #- title: History
 #  url: /#timeline
 # - title: Links
