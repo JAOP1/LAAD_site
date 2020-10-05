@@ -1,0 +1,14 @@
+
+events:
+- title: Concurso de programación
+  url: /assets/img/eventos/bla.jpg
+  num: 0
+  alt: Quinto concurso de programación
+- title: Escuela de verano 2019
+  url: /assets/img/eventos/EVP2019.jpg
+  num: 1
+  alt: EVP 2019
+- title: Flisol 2019
+  url: /assets/img/eventos/flisol2019.jpg
+  num: 2
+  alt: Flisol 2019

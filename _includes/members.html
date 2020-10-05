@@ -1,0 +1,54 @@
+<section class="page-section {{ section.background_style }}" id="{{ section.section_id }}">
+  <div class="container">
+    <h2 class="text-center mt-0">{{ section.title }}</h2>
+    <hr class="divider my-4">
+    <div class="row justify-content-center">
+      {% for member in site.data.members.integrants %}
+        <div class="col-lg-3 col-md-6 text-center">
+          <div class="member-box">
+            <img class="fa fa-4x text-primary" src="{{ member.image }}" alt="{{ member.title }}">
+            <h3 class="h4 mb-2">{{ member.user }}</h3>
+            <!--
+            <p class="text-white-50 mb-0">{{ member.text }}</p>
+            -->
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#{{ member.id }}"> Leer más</button>
+            
+          </div>
+        </div>
+
+        <!-- Modal -->
+        <div class="modal fade" id="{{ member.id }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+          <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+              <div class="modal-header bg-info">
+                <h5 class="modal-title" id="exampleModalLongTitle">Resumen</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <div class="row">
+                  <div class="col-md-8">
+                    <p class="text-secondary">{{ member.summary }}</p>
+                  </div>
+                  <div class="col-md-4">
+                    <p class="text-secondary"><strong>Contacto:</strong></p>
+                    <p class="text-warning">{{ member.correo}}</p>
+                  </div>
+                </div>
+              </div>
+
+              <!--
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+              </div>
+              -->
+            </div>
+          </div>
+        </div>
+        
+      {% endfor %}
+    </div>
+  </div>
+</section>

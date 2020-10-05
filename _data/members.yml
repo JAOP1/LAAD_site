@@ -1,0 +1,43 @@
+integrants:
+  - user: Adriana Menchaca
+    image: assets/img/members/person1.jpg
+    fields:
+    summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis vulputate eros, nec accumsan est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas sit amet pulvinar diam. Donec rhoncus luctus mauris a commodo. Proin dictum tortor ac turpis laoreet sollicitudin. Morbi semper lectus in condimentum pulvinar. Vivamus ullamcorper risus a mi tristique aliquet. Donec fringilla eros vel varius imperdiet. Nulla suscipit est egestas ex vehicula pulvinar. Nulla facilisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. In blandit interdum libero, eu tempus ante. Fusce mollis tristique laoreet. Quisque tempus urna lectus. 
+    url: '#'
+    id: Adri1
+    correo: bla@gmail.com
+  - user: Marisol Flores
+    image: assets/img/members/person2.jpg
+    fields: 
+    summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis vulputate eros, nec accumsan est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas sit amet pulvinar diam. Donec rhoncus luctus mauris a commodo. Proin dictum tortor ac turpis laoreet sollicitudin. Morbi semper lectus in condimentum pulvinar. Vivamus ullamcorper risus a mi tristique aliquet. Donec fringilla eros vel varius imperdiet. Nulla suscipit est egestas ex vehicula pulvinar. Nulla facilisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. In blandit interdum libero, eu tempus ante. Fusce mollis tristique laoreet. Quisque tempus urna lectus. 
+    url: '#'
+    id: Mari1
+    correo: bla@gmail.com
+  - user: Miguel Raggi 
+    image: assets/img/members/person3.jpg
+    fields:
+    summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis vulputate eros, nec accumsan est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas sit amet pulvinar diam. Donec rhoncus luctus mauris a commodo. Proin dictum tortor ac turpis laoreet sollicitudin. Morbi semper lectus in condimentum pulvinar. Vivamus ullamcorper risus a mi tristique aliquet. Donec fringilla eros vel varius imperdiet. Nulla suscipit est egestas ex vehicula pulvinar. Nulla facilisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. In blandit interdum libero, eu tempus ante. Fusce mollis tristique laoreet. Quisque tempus urna lectus. 
+    url: '#'
+    id: Migue1
+    correo: bla@gmail.com
+  - user: Luis Miguel
+    image: assets/img/members/person5.jpg
+    fields:
+    summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis vulputate eros, nec accumsan est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas sit amet pulvinar diam. Donec rhoncus luctus mauris a commodo. Proin dictum tortor ac turpis laoreet sollicitudin. Morbi semper lectus in condimentum pulvinar. Vivamus ullamcorper risus a mi tristique aliquet. Donec fringilla eros vel varius imperdiet. Nulla suscipit est egestas ex vehicula pulvinar. Nulla facilisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. In blandit interdum libero, eu tempus ante. Fusce mollis tristique laoreet. Quisque tempus urna lectus. 
+    url: '#'
+    id: Luis1
+    correo: bla@gmail.com
+  - user: Sergio Tinoco
+    image: assets/img/members/person6.jpg
+    fields:
+    summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis vulputate eros, nec accumsan est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas sit amet pulvinar diam. Donec rhoncus luctus mauris a commodo. Proin dictum tortor ac turpis laoreet sollicitudin. Morbi semper lectus in condimentum pulvinar. Vivamus ullamcorper risus a mi tristique aliquet. Donec fringilla eros vel varius imperdiet. Nulla suscipit est egestas ex vehicula pulvinar. Nulla facilisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. In blandit interdum libero, eu tempus ante. Fusce mollis tristique laoreet. Quisque tempus urna lectus. 
+    url: '#'
+    id: Sergio1
+    correo: bla@gmail.com
+  - user: Jesús Armando Ortíz Peñafiel
+    image: assets/img/members/person2.jpg
+    fields:
+    summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis vulputate eros, nec accumsan est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas sit amet pulvinar diam. Donec rhoncus luctus mauris a commodo. Proin dictum tortor ac turpis laoreet sollicitudin. Morbi semper lectus in condimentum pulvinar. Vivamus ullamcorper risus a mi tristique aliquet. Donec fringilla eros vel varius imperdiet. Nulla suscipit est egestas ex vehicula pulvinar. Nulla facilisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. In blandit interdum libero, eu tempus ante. Fusce mollis tristique laoreet. Quisque tempus urna lectus. 
+    url: '#'
+    id: Jesus1
+    correo: bla@gmail.com
