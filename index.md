@@ -11,56 +11,57 @@ header:
 sections:
   - type: call-to-action.html
     section_id: sobre
-    background_style: bg-info
+    background_style: 
     title: ¿Qué es el LAAD?
-    text: El laboratorio de análisis avanzado de datos es un espacio de trabajo para profesores, estudiantes, tesistas y academicos. El laboratorio cuenta con equipo para la enseñanza, análisis de grandes cantidades de datos que requieren una demanda de poder de computo.
-    actions:
-      - title: Eventos
-        url: '#eventos'
-        class: btn-light
+    text: El Laboratorio de Análisis Avanzado de Datos alberga un grupo de trabajo interdisciplinario enfocado en el uso de algoritmos, modelos matemáticos y métodos computacionales para abordar problemas de distintas disciplinas que involucran el análisis de datos. Mediante técnicas de cómputo inteligente y una infraestructura computacional apropiada, en el LAAD se busca extraer información a partir de los datos y enriquecer la perspectiva que se tiene en problemas complejos que involucran áreas desde la biología hasta las humanidades.
 
-  - type: carousel-events.html
-    section_id: eventos
+    #  actions:
+    #   - title: Eventos
+    #     url: '#eventos'
+    #     class: btn-light
 
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    title: Eventos pasados
-    #background_style: bg-dark
-    projects:
-      - title: Project 1
-        text: This is a very short project description.
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '#'
-        rgba: rgba(244, 98, 58, 0.8)
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
-        url: '#'
-        rgba: rgba(0, 204, 0, 0.8)
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-        rgba: rgba(244, 98, 58, 0.8)
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-        rgba: rgba(0, 204, 0, 0.8)
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-        rgba: rgba(244, 98, 58, 0.8)
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
-        rgba: rgba(0, 204, 0, 0.8)
+  # - type: carousel-events.html
+  #   section_id: eventos
+
+  # - type: portfolio.html
+  #   # this section has always ID 'portfolio'
+  #   #section_id: portfolio
+  #   title: Eventos pasados
+  #   #background_style: bg-dark
+  #   projects:
+  #     - title: Project 1
+  #       text: This is a very short project description.
+  #       # the images are located in:
+  #       # img/portfolio/fullsize
+  #       # img/portfolio/thumbnails
+  #       icon: 1.jpg
+  #       url: '#'
+  #       rgba: rgba(244, 98, 58, 0.8)
+  #     - title: Project 2
+  #       text: This is a very short project description.
+  #       icon: 2.jpg
+  #       url: '#'
+  #       rgba: rgba(0, 204, 0, 0.8)
+  #     - title: Project 3
+  #       text: This is a very short project description.
+  #       icon: 3.jpg
+  #       url: '#'
+  #       rgba: rgba(244, 98, 58, 0.8)
+  #     - title: Project 4
+  #       text: This is a very short project description.
+  #       icon: 4.jpg
+  #       url: '#'
+  #       rgba: rgba(0, 204, 0, 0.8)
+  #     - title: Project 5
+  #       text: This is a very short project description.
+  #       icon: 5.jpg
+  #       url: '#'
+  #       rgba: rgba(244, 98, 58, 0.8)
+  #     - title: Project 6
+  #       text: This is a very short project description.
+  #       icon: 6.jpg
+  #       url: '#'
+  #       rgba: rgba(0, 204, 0, 0.8)
 
 #  - type: aside.html
 #    section_id: aside
@@ -115,18 +116,14 @@ sections:
       # - title: Other 2
       #   text: Some not-so long text here.
       #   icon: fa-heart
-
-
-
   - type: members.html
     section_id: miembros
-    title: Integrantes
+    title: Directorio
     background_style: bg-info text-white
-
 
   - type: contact.html
     section_id: contacts
-    title: ¡Contactanos!
+    title: ¡Contáctanos!
     text: >-
       La licenciatura de Tecnologías para la información en Ciencias está al pendiente de todos los medios para recibir cualquier solicitud.
     actions:
@@ -141,4 +138,11 @@ sections:
       icon_type: fab
       url: 'https://www.facebook.com/BigdataScienceMexico/'
 
+
+
+
+# Esto no funciona, pero algún día!! :C
+  # - type: members-carousel.html
+  #   section_id: blamiembros
+  #   background_style: bg-info text-white
 ---
