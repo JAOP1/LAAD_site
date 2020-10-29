@@ -1,12 +1,27 @@
 <section id="{{ section.section_id }}" class="page-section {{ section.background_style }}">
+
+
+<!--
+<div class="jumbotron page-section {{ section.background_style }}" id="{{ section.section_id }}">
+  -->
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-8 {{ section.text_style | default: 'text-center' }}">
+      <!--Diseño para bracnground bg-info -->
+      <!--
         <h2 class="text-white mt-0 text-center">{{ section.title }}</h2>
         <hr class="divider light my-4">
         <div class="text-white-50 mb-4 ">{{ section.text | markdownify }}</div>
+      -->
+        <h2 class="text-secondary mt-0 text-center"><strong>{{ section.title }}</strong></h2>
+        <hr class="divider light my-4">
+        <div class="text-secondary mb-4 ">{{ section.text | markdownify }}</div>
       </div>
     </div>
     {% include actions.html actions=section.actions %}
   </div>
+<!--
+</div>
+-->
+  
 </section>
