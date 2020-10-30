@@ -5,12 +5,12 @@
 header:
 - title: Acerca de
   url: /#sobre
-- title: Eventos
-  url: /#eventos
 - title: Directorio
   url: /#miembros
 - title: Contacto
   url: /#contacts
+#- title: Eventos
+#  url: /#eventos
 #- title: Links
 #  url: /links
 #- title: History

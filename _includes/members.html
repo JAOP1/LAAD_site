@@ -35,7 +35,7 @@
               <div class="modal-body">
                 <div class="row">
                   <div class="col-lg-5 text-center">
-                    <img class="member-img" src="{{ post.image }}" alt="{{ post.title }}">
+                    <img class="member-img" src="{{ post.image }}" alt="{{ post.user }}">
                     <br>
                     <hr class="divider my-4">
                     <p class="text-secondary"><strong>{{ post.user }}</strong></p>
@@ -45,7 +45,7 @@
                       <p class="text-secondary">{{ post.summary }}</p>
                       <p class="text-secondary"><strong>Contacto:</strong></p>
                       <p class="text-secondary"><i class="fa fa-envelope"></i> {{ post.correo}}</p>
-                      <a href="{{ post.url }}"><button type="button" class="btn btn-outline-info">Ver más</button></a>
+                      <a href="{{ site.baseurl }}{{ post.url }}"><button type="button" class="btn btn-outline-info">Ver más</button></a>
 
                     </div>
                   </div>
