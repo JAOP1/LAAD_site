@@ -2,8 +2,10 @@
 layout: page
 title: Directorio
 #background_style: bg-info
-background_image: url('/assets/img/backgrounds/image-from-rawpixel-id-1199650-jpeg.jpg')
+#background_image: url('/assets/img/backgrounds/image-from-rawpixel-id-1199650-jpeg.jpg')
 # Add a link to the the top menu
+background_image_: /assets/img/backgrounds/image-from-rawpixel-id-1199650-jpeg.jpg
+
 menus:
   header:
     title: Links
