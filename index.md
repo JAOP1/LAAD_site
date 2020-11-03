@@ -121,24 +121,36 @@ sections:
     title: Directorio
     background_style: bg-info text-white
 
-  - type: contact.html
+  # - type: contact.html
+  #   section_id: contacts
+  #   title: ¡Contáctanos!
+  #   text: >-
+  #     La licenciatura de Tecnologías para la información en Ciencias está al pendiente de todos los medios para recibir cualquier solicitud.
+  #   actions:
+  #   - title: Número telefonico (adjuntar)
+  #     icon: fa-phone
+  #     url: '#contacts'
+  #   - title: coordinacion_tic@enesmorelia.unam.mx
+  #     icon: fa-envelope
+  #     url: '#contacts'
+  #   - title: TICS
+  #     icon: fa-facebook
+  #     icon_type: fab
+  #     url: 'https://www.facebook.com/BigdataScienceMexico/'
+
+  - type: address.html
     section_id: contacts
     title: ¡Contáctanos!
-    text: >-
-      La licenciatura de Tecnologías para la información en Ciencias está al pendiente de todos los medios para recibir cualquier solicitud.
-    actions:
-    - title: Número telefonico (adjuntar)
-      icon: fa-phone
-      url: '#contacts'
-    - title: coordinacion_tic@enesmorelia.unam.mx
-      icon: fa-envelope
-      url: '#contacts'
-    - title: TICS
-      icon: fa-facebook
-      icon_type: fab
-      url: 'https://www.facebook.com/BigdataScienceMexico/'
-
-
+    map: https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3757.4791516470136!2d-101.22453838508989!3d19.649553086761397!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2smx!4v1604363774299!5m2!1ses-419!2smx
+    address:
+      title: Ubicación
+      text: >
+        Segundo Piso del Edificio de Investigación ala A de la Escuela Nacional de Estudios Superiores de la UNAM Unidad Morelia, Antigua Carretera a Pátzcuaro No. 8701 Col. Ex Hacienda de San José de la Huerta C.P. 58190 Morelia, Michoacán, México 
+    phone:
+      title: Teléfono
+      text: >
+        +1 (202) 555-014<br/>
+        +1 (202) 555-015
 
 
 # Esto no funciona, pero algún día!! :C
