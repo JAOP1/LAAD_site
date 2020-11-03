@@ -5,11 +5,63 @@
           <br>
           <hr class="divider my-4">
           <p class="text-secondary"><strong>{{ section.user }}</strong></p>
+          <br>
+          <br>
+          <br>
         </div>
         <div class="col-lg-7">
-          <div class="alert alert-info" role="alert">
+          <div class="alert alert-info  justify-content-center" role="alert">
             <p class="text-secondary">{{ section.summary }}</p>
-         </div>
+          </div>
+          <br>
+          {% if section.mail or section.phone or section.location %}
+          <div class="text-center text-secondary">
+           <strong>Información de contacto</strong>
+           <hr class="divider my-4">
+          </div>
+          {% endif %}
+          <!--Correo, telefono y cubículo-->
+          <div class="container">
+            <div class="row">
+              {% if section.mail %}  
+                <div class="col">
+                  <div class="text-center">
+                    <p class="text-secondary">
+                      <i class="fa fa-envelope fa-3x mb-3 text-muted"></i>
+                      <br>
+                      {{ section.mail }}
+                    </p>
+                  </div>
+                </div>
+              {% endif %}
+
+              {% if section.phone %}
+                <div class="col">
+                  <div class="text-center">
+                    <p class="text-secondary">
+                        <i class="fa fa-phone fa-3x mb-3 text-muted" aria-hidden="true"></i>
+                        <br>
+                        {{ section.phone }}
+                    </p>
+                  </div>
+                </div>
+              {% endif %}
+
+              {% if section.location %}
+                <div class="col">
+                  <div class="text-center">
+                    <p class="text-secondary">
+                      <i class="fa fa-building fa-3x mb-3 text-muted" aria-hidden="true"></i>
+                      <br>
+                      {{ section.location }}
+                    </p>
+                  </div>
+                </div>
+              {% endif %}
+              <div class="w-100"></div>
+            </div>
+          </div>
+          
         </div>
       </div>
 </section>
