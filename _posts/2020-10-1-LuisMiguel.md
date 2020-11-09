@@ -13,10 +13,8 @@ menus:
 
 user: Dr. Luis Miguel
 image: assets/img/members/person5.jpg
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis vulputate eros, nec accumsan est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas sit amet pulvinar diam. Donec rhoncus luctus mauris a commodo. Proin dictum tortor ac turpis laoreet sollicitudin. Morbi semper lectus in condimentum pulvinar. Vivamus ullamcorper risus a mi tristique aliquet. Donec fringilla eros vel varius imperdiet. Nulla suscipit est egestas ex vehicula pulvinar. Nulla facilisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. In blandit interdum libero, eu tempus ante. Fusce mollis tristique laoreet. Quisque tempus urna lectus. 
-
+summary: Es Ingeniero en Sistemas Computacionales graduado con Mención de Excelencia por el Tecnológico de Monterrey. Posteriormente obtuvo el grado de Maestría por el posgrado conjunto de la Universidad Michoacana de San Nicolás de Hidalgo y la Universidad Nacional Autónoma de México, con la tesis “Arcos ordenados en Hiperespacios de Continuos Métricos y No Métricos”. Se doctoró en Ciencias Matemáticas por la Universidad Nacional Autónoma de México, presentando la tesis “Hiperespacios de Continuos No Métricos” bajo la supervisión del Dr. Alejandro Illanes.
 id_: Luis1
-correo: bla@gmail.com
 
 
 sections:
@@ -24,9 +22,21 @@ sections:
   section_id: memberLuis
   user: Dr. Luis Miguel
   image: /assets/img/members/person5.jpg
-  summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis vulputate eros, nec accumsan est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas sit amet pulvinar diam. Donec rhoncus luctus mauris a commodo. Proin dictum tortor ac turpis laoreet sollicitudin. Morbi semper lectus in condimentum pulvinar. Vivamus ullamcorper risus a mi tristique aliquet. Donec fringilla eros vel varius imperdiet. Nulla suscipit est egestas ex vehicula pulvinar. Nulla facilisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. In blandit interdum libero, eu tempus ante. Fusce mollis tristique laoreet. Quisque tempus urna lectus. 
-  mail: blah@gmail.com
-  phone: (443)2958310 
+  summary: >+
+    Es Ingeniero en Sistemas Computacionales graduado con Mención de Excelencia por el Tecnológico de Monterrey. Posteriormente obtuvo el grado de Maestría por el posgrado conjunto de la Universidad Michoacana de San Nicolás de Hidalgo y la Universidad Nacional Autónoma de México, con la tesis “Arcos ordenados en Hiperespacios de Continuos Métricos y No Métricos”. Se doctoró en Ciencias Matemáticas por la Universidad Nacional Autónoma de México, presentando la tesis “Hiperespacios de Continuos No Métricos” bajo la supervisión del Dr. Alejandro Illanes.
+    <br>
+    Recibió el reconocimiento de México y el Internet del Futuro (INTTELMEX, 2000) y el Premio al Mérito Académico (ITESM, 1997).
+    <br>
+    <strong>Sus líneas de investigación son:</strong>
+    <br>
+    <ul>
+    <li>Hiperespacios de continuos no métricos.</li>
+    <li>Politopos abstractos.</li>
+    <li>Adaptación de técnicas didácticas para el desarrollo de habilidades cognitivas específicas.</li>
+
+
+  mail: luism_garcia@enesmorelia.unam.mx
+  phone: (443) 6893500 Ext. 80600 
   location:  Edificio I. Cubículo 403
 
 - type: timeline.html
@@ -49,93 +59,5 @@ sections:
       text: >-
         We started to gather like minded people and started our stategies
         and future plans to them. As a result , interested people joined us!
-
-# - type: address.html
-#   section_id: address
-#   title: You are welcome!
-#   map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1784803899586!2d-71.56614568458906!3d42.338717979188324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6335220b7c08850a!2sMarlborough%20District%20Court!5e0!3m2!1sen!2sbg!4v1583193778570!5m2!1sen!2sbg
-#   address:
-#     title: Address
-#     text: >
-#       45 Williams St,<br/>
-#       Marlborough, MA 01752,<br/>
-#       United States
-#   phone:
-#     title: Phones
-#     text: >
-#       +1 (202) 555-014<br/>
-#       +1 (202) 555-015
-# - type: paragraph.html
-#   section_id: help
-#   title: Get some help!
-#   text: >+
-#     There is a quick reference and showscase of Markdown Syntax Here:
-
-#     * [Markdown Syntax Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-#     * [John Gruber's original spec](http://daringfireball.net/projects/markdown/).
-
-#     * [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).
-
-# - type: paragraph.html
-#   section_id: more-to-come
-#   title: No HTML!
-# #  background_style: bg-info
-# #  text_style: text-left text-white
-#   actions:
-#    - title: Markdown is fun!
-#      class: btn-info
-#      url: '#'
-#   text: >+
-#     ### Typographic replacements
-
-#     Enable typographer option to see result.
-
-#     (c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-#     test.. test... test..... test?..... test!....
-
-#     !!!!!! ???? ,,  -- ---
-
-#     "Smartypants, double quotes" and 'single quotes'
-
-
-#     ### Emphasis
-
-#     **This is bold text**
-
-#     __This is bold text__
-
-#     *This is italic text*
-
-#     _This is italic text_
-
-#     ~~Strikethrough~~
-
-
-#     ### Blockquotes
-
-#     > Blockquotes can also be nested...
-#     >> ...by using additional greater-than signs right next to each other...
-#     > > > ...or with spaces between arrows.
-
-#     ### Lists
-
-#     Unordered
-
-#     + Create a list by starting a line with `+`, `-`, or `*`
-#     + Sub-lists are made by indenting 2 spaces:
-#     - Marker character change forces new list start:
-#       * Ac tristique libero volutpat at
-#       + Facilisis in pretium nisl aliquet
-#       - Nulla volutpat aliquam velit
-#     + Very easy!
-
-#     Ordered
-
-#     1. Lorem ipsum dolor sit amet
-#     2. Consectetur adipiscing elit
-#     3. Integer molestie lorem at massa
-
 
 ---

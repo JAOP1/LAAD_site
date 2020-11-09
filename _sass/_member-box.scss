@@ -33,3 +33,37 @@
     overflow: hidden;
     border-radius: 50%;   
 }
+
+
+@media (min-width: 576px) {
+    .member-img2
+    {
+        height: 50%;
+        width: 50%;
+    }
+}
+
+@media (min-width: 768px) {
+    .member-img2
+    {
+        height: 80%;
+        width: 50%;
+    }
+}
+
+@media (min-width: 992px) {
+    .member-img2
+    {
+        height: 280px;
+        width: 50%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .member-img2
+    {
+        height: 350px;
+        width: 50%;
+    }
+    
+}
