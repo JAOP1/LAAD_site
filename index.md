@@ -151,7 +151,10 @@ sections:
       text: >
         +1 (202) 555-014<br/>
         +1 (202) 555-015
-
+    mail:
+      title: Correo
+      text: >
+        stinoco@enesmorelia.unam.mx 
 
 # Esto no funciona, pero algún día!! :C
   # - type: members-carousel.html
