@@ -9,9 +9,9 @@ header:
   url: /#miembros
 - title: Contacto
   url: /#contacts
-- title: Eventos
-  url: /
 - title: Proyectos
   url: /proyectos
+- title: Eventos
+  url: /
 #- title: History
 #  url: /#timeline
