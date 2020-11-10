@@ -11,6 +11,7 @@ collections:
     output: true
   projects:
     output: true
+    
 # Build settings
 safe: true # always trues on github-pages, disables _plugins/
 markdown: kramdown
