@@ -11,7 +11,7 @@ menus:
     title: Links
     weight: 2
 
-user: Dr. Luis Miguel
+user: Dr. Luis Miguel García Velázquez
 image: assets/img/members/person5.jpg
 summary: Es Ingeniero en Sistemas Computacionales graduado con Mención de Excelencia por el Tecnológico de Monterrey. Posteriormente obtuvo el grado de Maestría por el posgrado conjunto de la Universidad Michoacana de San Nicolás de Hidalgo y la Universidad Nacional Autónoma de México, con la tesis “Arcos ordenados en Hiperespacios de Continuos Métricos y No Métricos”. Se doctoró en Ciencias Matemáticas por la Universidad Nacional Autónoma de México, presentando la tesis “Hiperespacios de Continuos No Métricos” bajo la supervisión del Dr. Alejandro Illanes.
 id_: Luis1
@@ -20,7 +20,7 @@ id_: Luis1
 sections:
 - type: member-inf.html
   section_id: memberLuis
-  user: Dr. Luis Miguel
+  user: Dr. Luis Miguel García Velázquez
   image: /assets/img/members/person5.jpg
   summary: >+
     Es Ingeniero en Sistemas Computacionales graduado con Mención de Excelencia por el Tecnológico de Monterrey. Posteriormente obtuvo el grado de Maestría por el posgrado conjunto de la Universidad Michoacana de San Nicolás de Hidalgo y la Universidad Nacional Autónoma de México, con la tesis “Arcos ordenados en Hiperespacios de Continuos Métricos y No Métricos”. Se doctoró en Ciencias Matemáticas por la Universidad Nacional Autónoma de México, presentando la tesis “Hiperespacios de Continuos No Métricos” bajo la supervisión del Dr. Alejandro Illanes.

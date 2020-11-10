@@ -1,0 +1,29 @@
+<section id="{{ section.section_id }}" class="page-section {{ section.background_style }}">
+
+    <div class="container-fluid">
+
+        {% for project in site.projects %}
+        
+          <div class="card w-100 blog-card">
+              <div class="card-body">
+                <div class="row h-100">
+                    <div class="col-md-4">
+                      <img class="card-img" src="{{ site.baseurl }}{{ project.image }}" alt="ersfsdarwtgs">
+                    </div>
+                    <div class="col-md-8">
+                      <h5 class="card-title text-muted">{{ project.title }}</h5>
+                      <p class="card-text text-muted">{{ project.summary }}</p>
+                      <hr>
+                      <div class="d-flex justify-content-center">
+                        <a href="#" class="btn btn-primary">Ver más</a>
+                      </div>
+                    </div>
+                </div>  
+              </div>
+            </div>
+
+        {% endfor %}
+  
+    </div>
+      
+</section>
