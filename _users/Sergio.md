@@ -11,7 +11,7 @@ menus:
     title: Links
     weight: 2
 
-user: Dr. Sergio Tinoco
+user: Dr. Sergio Rogelio Tinoco Martínez
 image: assets/img/members/person2.jpg
 summary: >+
   Intereses de investigación: Reconocimiento de patrones aplicado a visión por computadora, ciencia de datos aplicada al big data y seguridad en informática.
@@ -24,7 +24,7 @@ id_: Sergio1
 sections:
 - type: member-inf.html
   section_id: memberSergio
-  user: Dr. Sergio Tinoco
+  user: Dr. Sergio Rogelio Tinoco Martínez
   image: /assets/img/members/person2.jpg
   summary: >+
     Intereses de investigación: Reconocimiento de patrones aplicado a visión por computadora, ciencia de datos aplicada al big data y seguridad en informática.

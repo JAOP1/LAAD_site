@@ -11,7 +11,7 @@ menus:
     title: Links
     weight: 2
 
-user: Dr. Miguel Raggi
+user: Dr. Miguel Raggi Pérez
 image: assets/img/members/person3.jpg
 summary: Estudió la licenciatura en físico-matemáticas en la UMSNH, y el doctorado en matemáticas en la University of British Columbia en matemáticas discretas. Posteriormente realizó un posdoctorado en el Centro de Ciencias Matemáticas de la UNAM. Ha ganado premios como medalla de bronce en la olimpiada internacional de matemáticas y de plata en la iberoamericana de matemáticas. Además, ganó el Oracle MDC coding challenge 2015 en programación.
 
@@ -22,7 +22,7 @@ correo: mraggi@gmail.com
 sections:
 - type: member-inf.html
   section_id: memberRaggi
-  user: Dr. Miguel Raggi
+  user: Dr. Miguel Raggi Pérez
   image: /assets/img/members/person3.jpg
   summary: Estudió la licenciatura en físico-matemáticas en la UMSNH, y el doctorado en matemáticas en la University of British Columbia en matemáticas discretas. Posteriormente realizó un posdoctorado en el Centro de Ciencias Matemáticas de la UNAM. Ha ganado premios como medalla de bronce en la olimpiada internacional de matemáticas y de plata en la iberoamericana de matemáticas. Además, ganó el Oracle MDC coding challenge 2015 en programación. 
   mail: mraggi@gmail.com

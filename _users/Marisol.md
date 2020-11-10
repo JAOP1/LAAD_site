@@ -11,7 +11,7 @@ menus:
     title: Links
     weight: 2
 
-user: Dra. Marisol Flores
+user: Dra. Marisol Flores Garrido
 image: assets/img/members/person7.jpg
 summary: Estudió matemáticas aplicadas en la Universidad Autónoma de Coahuila. Posteriormente obtuvo una maestría en cómputo científico en la Universidad de British Columbia (BC, Canadá) y un doctorado en ciencias computacionales en el Instituto Nacional de Astrofísica, Óptica y Electrónica (Puebla, México). Sus intereses de investigación se centran en el aprendizaje automático, el análisis de redes y la intersección entre la inteligencia artificial y las humanidades.
 
@@ -22,7 +22,7 @@ correo: mflores@enesmorelia.unam.mx
 sections:
 - type: member-inf.html
   section_id: memberMarisol
-  user: Dra. Marisol Flores
+  user: Dra. Marisol Flores Garrido
   image: /assets/img/members/person7.jpg
   summary: Estudió matemáticas aplicadas en la Universidad Autónoma de Coahuila. Posteriormente obtuvo una maestría en cómputo científico en la Universidad de British Columbia (BC, Canadá) y un doctorado en ciencias computacionales en el Instituto Nacional de Astrofísica, Óptica y Electrónica (Puebla, México). Sus intereses de investigación se centran en el aprendizaje automático, el análisis de redes y la intersección entre la inteligencia artificial y las humanidades.
   mail: mflores@enesmorelia.unam.mx
